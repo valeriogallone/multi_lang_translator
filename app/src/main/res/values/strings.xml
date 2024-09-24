@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PolyDuck</string>
+    <string name="srch_hint">Cerca...</string>
+    <string name="eng_btn_lbl">ENG</string>
+    <string name="fra_btn_lbl">FRA</string>
+    <string name="spa_btn_lbl">SPA</string>
+    <string name="por_btn_lbl">POR</string>
+    <string name="ger_btn_lbl">GER</string>
+</resources>
